@@ -1,0 +1,6 @@
+[*]  Here we compeleted ,setup over template engin
+[*]  We set mongo db in template engin 
+[*]  So as well as we set all routes in over template 
+[*]  Selete Html template css Design template Make Blog 
+[-]  Set Git in Side Projcet 
+[-]    
